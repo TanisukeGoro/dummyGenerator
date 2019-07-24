@@ -1,4 +1,4 @@
-import module.generatorimg as gi
+import module.generator as gi
 import argparse
 import configparser
 
